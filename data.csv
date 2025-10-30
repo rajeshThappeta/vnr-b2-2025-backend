@@ -1,0 +1,32 @@
+[{
+    "name":"ravi",
+    "address":{
+        "city":"hyderabad",
+        "pincode":500085
+    },
+    "skills":["react","angular"],
+    "experiences":[{
+        "company":"tcs",
+        "years":5
+    },
+    {
+        "company":"cognizant",
+        "years":8
+    }]
+},
+{
+    "name":"vikas",
+    "address":{
+        "city":"chennai",
+        "pincode":78976
+    },
+    "skills":["react","node"],
+    "experiences":[{
+        "company":"wipro",
+        "years":10
+    },
+    {
+        "company":"capgemini",
+        "years":3
+    }]
+}]
