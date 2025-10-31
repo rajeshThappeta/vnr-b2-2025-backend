@@ -1,12 +1,12 @@
 ### GET request
-GET http://localhost:8080/users
+GET http://localhost:8080/user-api/users
 
 
 ### GET user by id
-GET http://localhost:8080/users/300
+GET http://localhost:8080/user-api/users/300
 
 ### POST request
-POST http://localhost:8080/user
+POST http://localhost:8080/user-api/user
 Content-Type: application/json
 
 {
@@ -17,7 +17,7 @@ Content-Type: application/json
 
 
 ### PUT request
-PUT http://localhost:8080/user
+PUT http://localhost:8080/user-api/user
 Content-Type: application/json
 
 {
@@ -29,10 +29,11 @@ Content-Type: application/json
 
 
 ### DELETE request
-DELETE http://localhost:8080/user/100
+DELETE http://localhost:8080/user-api/user/100
 
 
-
+### Req for product API
+GET http://localhost:8080/product-api/products
 
 
 
